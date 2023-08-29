@@ -5,11 +5,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
   },
   "author": "Charlie-Pencal",
   "license": "MIT",
   "dependencies": {
-    "readline": "^1.3.0"
+    "readline": "^1.3.0",
+    "readline-sync": "^1.4.10"
   }
 }

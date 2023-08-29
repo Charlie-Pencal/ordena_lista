@@ -1,1 +1,1 @@
-import readline from "readline";
+import rl from "readline-sync";
